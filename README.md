@@ -1,0 +1,1 @@
+Jogo simples feito em Python com Pygame, inspirado no Dino Game. O jogador controla um coelho que precisa pular arbustos e pássaros enquanto a distância percorrida soma pontos. O jogo encerra ao tocar um obstáculo. Projeto não autoral, criado apenas para estudo.
